@@ -1,0 +1,8 @@
+[alias]
+	st = status
+	br = branch
+	co = checkout
+	pr = pull --rebase
+[user]
+	email = justin.ting@foxmail.com
+	name = zinkin
