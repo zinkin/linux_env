@@ -10,4 +10,10 @@ setup_vim(){
 	cp ./vim/vimrc ~/.vimrc
 }
 
+setup_git(){
+	cp ./git/gitconfig ~/.gitconfig
+}
+
+
 setup_vim
+setup_git

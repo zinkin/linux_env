@@ -3,6 +3,7 @@
 	br = branch
 	co = checkout
 	pr = pull --rebase
+	ci = commit
 [user]
 	email = justin.ting@foxmail.com
 	name = zinkin
