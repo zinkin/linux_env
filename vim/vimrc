@@ -112,7 +112,7 @@ function Fmt()
 	:wall
 	:call cursor(lineNum,colNum)
 endfunction
-map ff :call Fmt() <CR>
+map ff <Esc>:call Fmt() <CR>
 
 """"""""""""""""""""""""""""""""""""""""""""""""
 "  tags setting -- include ctags/cscope/taglist
